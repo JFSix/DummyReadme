@@ -1,3 +1,3 @@
 cd c:\repositories
-ls
+Get-children
 cd c:\
